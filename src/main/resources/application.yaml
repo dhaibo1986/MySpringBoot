@@ -1,4 +1,12 @@
 server:
   port: 8081
 
-  
+
+person:
+  name: 张三
+  age: 13
+  sex: 男
+  likes:
+    - bike
+    - girl
+    - movie
