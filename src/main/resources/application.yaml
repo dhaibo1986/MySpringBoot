@@ -6,7 +6,5 @@ person:
   name: 张三
   age: 13
   sex: 男
-  likes:
-    - bike
-    - girl
-    - movie
+  likes: bike,girl,movie
+  english_name: james
