@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+  person:
+    name: test
+    age: 13
+    sex: 男
+    likes: bike,girl,movie
+    english_name: james
