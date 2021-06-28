@@ -11,4 +11,7 @@ person:
 
 spring:
   profiles:
-    active: test
+    active: prod
+
+  messages:
+    basename: i18n/login
